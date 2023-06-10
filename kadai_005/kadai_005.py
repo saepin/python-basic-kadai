@@ -7,9 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1kd233vir3ur3Z_nqu_erZVAy7l2rziuC
 """
 
-number1=10
-number2=20
-number3=5
-user_name="cm"
-print((number1+number2)*number3/2)
-print(user_name)
+upperside=10
+lowerside=20
+hight=5
+unit="cm"
+print(str((upperside+lowerside)*hight/2)+unit)
